@@ -1,4 +1,19 @@
-### Hi there 👋
+✨ YO ✨
+
+Senior full-stack destroyer. 
+Code janitor 🧹
+Chaos monkey 😈
+
+Primarily full stack (react + typescript) dev. Working with behaviour change via game design. 
+
+On my free time I live code P5.js visuals to music with the artist name julesvisuaalinen. See my [live-editor](https://github.com/julesvirallinen/vj-p5-live). 
+
+Open source areas: 
+- Obsidianmd plugins
+- p5.js scripts
+- general quality and linting
+
+
 
 <!--
 **julesvirallinen/julesvirallinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
