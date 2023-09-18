@@ -1,8 +1,8 @@
 ✨ YO ✨
 
-Senior full-stack destroyer. 
-Code janitor 🧹
-Chaos monkey 😈
+Senior full-stack destroyer. </br>
+Code janitor 🧹</br>
+Chaos monkey 😈</br>
 
 Primarily full stack (react + typescript) dev. Working with behaviour change via game design. 
 
